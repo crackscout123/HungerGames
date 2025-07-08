@@ -1,0 +1,10 @@
+main: eu.crackscout.hungergames.Main
+name: HUngerGames
+version: 0.0.1-SNAPSHOT
+description: A HUngerGames Plugin
+load: POSTWORLD
+author: JOE_
+website: crackscout.eu
+
+commands:
+  setup:
